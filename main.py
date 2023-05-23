@@ -1,5 +1,4 @@
 import psycopg2
-import config
 
 # Establecer la conexión con la base de datos ( connection strig)
 connection = psycopg2.connect(
